@@ -1,5 +1,0 @@
-{
-  "buildCommand": "pnpm --filter example-blog build",
-  "outputDirectory": ".next",
-  "installCommand": "pnpm install --frozen-lockfile"
-}
